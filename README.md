@@ -7,7 +7,7 @@
 
 ### 🎓 About Me
 
-I'm an **Electronics & Computer Engineering** student at the **University of Pretoria**, currently working towards my **Bachelor of Engineering degree**.  
+I'm an **Computer Engineering** student at the **University of Pretoria**, currently working towards my **Bachelor of Engineering degree**.  
 I’ve recently explored the **core principles of engineering** and applied them through hands-on projects in both **software** and **electronics** domains.
 
 Outside of academics and coding:
