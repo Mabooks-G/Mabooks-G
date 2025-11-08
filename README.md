@@ -11,7 +11,7 @@
 💡 &nbsp;I enjoy building practical solutions — from **web applications** to **low-level digital systems**.  
 🧩 &nbsp;I’m currently learning about **web deployment**, **data structures**, and **software architecture**.  
 🌱 &nbsp;I believe in writing code that’s clean, efficient, and meaningful — and in using technology to make systems more sustainable.  
-🚀 &nbsp;Recently built a **website project** for a university module and I’m deploying some of my **data structure implementations** to GitHub soon.  
+🚀 &nbsp;Recently built a **personal website** and I’m deploying some of my **data structures projects** to GitHub.  
 
 ---
 
@@ -34,18 +34,29 @@
 
 ### 🧩 Current Projects
 
-- 🌐 **Personal Website** — a simple, responsive portfolio site built with HTML, CSS, and JavaScript.  
-- 🧮 **Data Structures Repo** — implementing and documenting algorithms in Python and C.  
-- ⚙️ **Logic Systems Project** — simulating a multifunction register on the DE10-Lite FPGA (VHDL).  
-- 🧾 **Python Automation Scripts** — creating small tools for learning and productivity.  
+- 🌐 **[Personal Website](https://github.com/Mabooks-G/personal-website)** — a responsive portfolio site built with HTML, CSS, and JavaScript.  
+- 🧮 **[Data Structures Repo](https://github.com/Mabooks-G/data-structures)** — implementing classic algorithms in Python and C.  
+- ⚙️ **Logic Systems Project** — simulating a multifunction register on the DE10-Lite FPGA using VHDL.  
+- 🧾 **Python Automation Scripts** — small tools for learning, automation, and productivity.  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mabooks-G&show_icons=true&theme=tokyonight" alt="Gift's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabooks-G&layout=compact&theme=tokyonight" />
+  <!-- Overall contributions and stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mabooks-G&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Gift's GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top languages across all repos -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabooks-G&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Highlight individual repositories -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mabooks-G&repo=personal-website&theme=tokyonight" alt="Website Repo Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mabooks-G&repo=data-structures&theme=tokyonight" alt="Data Structures Repo Stats" />
 </p>
 
 ---
