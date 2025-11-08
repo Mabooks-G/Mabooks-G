@@ -31,20 +31,27 @@
 
 ---
 
+### 🌐 Deployed Projects
+
+<p align="center">
+  <b>Frontend (Current Version)</b> — [FoodSaveHub Frontend](https://ffoodsavehub-frontend.onrender.com)  
+  <b>Frontend (Testing/Backup)</b> — [FoodSaveHub Frontend Backup](https://foodsavehub-fn-backup.onrender.com)  
+  <b>Backend API</b> — [FoodSaveHub Backend](https://foodsave-backend.onrender.com)
+</p>
+
+- These apps are hosted on **Render** and showcase web application development and deployment skills.  
+- The frontend connects dynamically to the backend API, which handles data processing and storage.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall GitHub stats including private repos -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mabooks-G&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&token=GH_TOKEN" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mabooks-G&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabooks-G&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Top languages across all repositories including private repos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabooks-G&layout=compact&theme=tokyonight&langs_count=10&token=GH_TOKEN" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Contribution activity graph -->
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mabooks-G&theme=react-dark" alt="Contribution Graph" />
 </p>
 
@@ -52,7 +59,7 @@
 
 ### 🌱 Current Focus
 
-- Building **web applications** and deploying them online.  
+- Building **full-stack web applications** and deploying them online.  
 - Implementing **data structures and algorithms** in Python and C.  
 - Exploring **software architecture and best practices**.  
 - Applying tech solutions for **sustainable systems**.
