@@ -3,6 +3,7 @@
 </p>
 
 <div align="center">
+  <h3>👋 Hi, I'm Gift Mabokela </h3>
   <h3>🎓 Computer Engineering Student | 💡 Bridging Hardware & Software | 🌍 University of Pretoria</h3>
 </div>
 
