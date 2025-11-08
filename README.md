@@ -35,7 +35,7 @@ Outside of academics and coding:
 ### 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://share.google/images/X2nuJaCw2A0VNGwo8" alt="Project Showcase" width="600"/>
+  <img src="https://dribbble.com/shots/3253310-Coder?utm_source=Clipboard_Shot&utm_campaign=SethAustinDesign&utm_content=Coder&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=SethAustinDesign&utm_content=Coder&utm_medium=Social_Share" alt="Project Showcase" width="600"/>
 </p>
 
 ---
