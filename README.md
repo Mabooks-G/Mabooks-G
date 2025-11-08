@@ -56,6 +56,7 @@ FoodSave Hub is a comprehensive system that helps **households and businesses** 
 - 📊 Waste analytics and insight dashboard  
 
 **Tech Stack:** React, Node.js, postgreSQL, WebSocket, Deepseek API, Barcode scanner
+
 **Team Members:** Bethlehem Shimelis, Lethabo Ramadimetje, Kemo Mokoena, Nomusa Skosana  
 
 ---
