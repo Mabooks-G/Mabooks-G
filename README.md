@@ -13,7 +13,7 @@ I’ve recently explored the **core principles of engineering** and applied them
 Outside of academics and coding:
 
 🏊‍♂️ &nbsp;I enjoy **swimming** with friends  
-📺 &nbsp;I'm an **anime enthusiast** (Attack on Titan, Jujutsu Kaisen, and One Piece are among my favorites)  
+📺 &nbsp;I'm an **anime enthusiast** (Attack on Titan, HxH, and Death Note are among my favorites)  
 👨‍👩‍👧‍👦 &nbsp;I value **family time** and balance between technology and personal life  
 
 ---
@@ -36,6 +36,8 @@ Outside of academics and coding:
 
 <p align="center">
   <img src="Coding.gif" alt="Coding GIF" width="600"/>
+  <br>
+  <sub>Project links are embedded in the titles below 👇</sub>
 </p>
 
 
@@ -92,7 +94,7 @@ This repository showcases my understanding of **computer science fundamentals**,
 
 | Category | Skills |
 |:----------|:-------|
-| **Programming Languages** | C++, Python, JavaScript, Java |
+| **Programming Languages** | C++, Python, JavaScript, Java, Assembly |
 | **Web Technologies** | React, Node.js, HTML/CSS, MongoDB |
 | **Embedded Systems** | Arduino, UART, PWM, Motor Control |
 | **Tools & Platforms** | Git, VS Code, MATLAB, Jira |
