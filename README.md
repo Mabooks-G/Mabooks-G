@@ -25,6 +25,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
@@ -32,20 +34,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall GitHub Stats -->
+  <!-- Overall GitHub stats including private repos -->
   <img src="https://github-readme-stats.vercel.app/api?username=Mabooks-G&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&token=GH_TOKEN" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- Top languages across all repositories -->
+  <!-- Top languages across all repositories including private repos -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabooks-G&layout=compact&theme=tokyonight&langs_count=10&token=GH_TOKEN" alt="Top Languages" />
 </p>
 
-
 <p align="center">
+  <!-- Contribution activity graph -->
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mabooks-G&theme=react-dark" alt="Contribution Graph" />
 </p>
 
+---
+
+### 🌱 Current Focus
+
+- Building **web applications** and deploying them online.  
+- Implementing **data structures and algorithms** in Python and C.  
+- Exploring **software architecture and best practices**.  
+- Applying tech solutions for **sustainable systems**.
 
 ---
 
