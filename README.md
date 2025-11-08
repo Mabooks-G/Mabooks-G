@@ -21,11 +21,11 @@ Outside of academics and coding:
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:gift.mabokela@example.com">
+  <a href="mailto:mabooks@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gift-mabokela/">
+  <a href="https://www.linkedin.com/in/gift-mabokela">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
 </p>
@@ -53,7 +53,7 @@ FoodSave Hub is a comprehensive system that helps **households and businesses** 
 - 💬 Real-time chat and communication system  
 - 📊 Waste analytics and insight dashboard  
 
-**Tech Stack:** React, Node.js, MongoDB, WebSocket, Material-UI  
+**Tech Stack:** React, Node.js, postgreSQL, WebSocket, Deepseek API, Barcode scanner
 **Team Members:** Bethlehem Shimelis, Lethabo Ramadimetje, Kemo Mokoena, Nomusa Skosana  
 
 ---
