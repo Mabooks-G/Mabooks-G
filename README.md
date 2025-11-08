@@ -32,19 +32,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall stats across all repos -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mabooks-G&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mabooks-G&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&token=GH_TOKEN" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <!-- Top languages across all repositories -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabooks-G&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=exclude-this-if-needed" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabooks-G&layout=compact&theme=tokyonight&langs_count=10&token=GH_TOKEN" alt="Top Languages" />
 </p>
 
+
 <p align="center">
-  <!-- Contribution calendar -->
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mabooks-G&theme=react-dark" alt="Contribution Graph" />
 </p>
+
 
 ---
 
