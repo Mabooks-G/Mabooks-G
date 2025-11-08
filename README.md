@@ -39,20 +39,23 @@
   <b>Backend API</b> — [FoodSaveHub Backend](https://foodsave-backend.onrender.com)
 </p>
 
-- These apps are hosted on **Render** and showcase web application development and deployment skills.  
-- The frontend connects dynamically to the backend API, which handles data processing and storage.
-
 ---
 
-### 📊 GitHub Stats
+### 📊 Project Stats
 
+#### **Frontend (Current Version)**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mabooks-G&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mabooks-G&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mabooks-G&repo=ffoodsavehub-frontend&theme=tokyonight&token=M_Stats" alt="Frontend Stats" />
 </p>
 
+#### **Frontend (Testing / Backup)**
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mabooks-G&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mabooks-G&repo=foodsavehub-fn-backup&theme=tokyonight&token=M_Stats" alt="Frontend Backup Stats" />
+</p>
+
+#### **Backend**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mabooks-G&repo=foodsave-backend&theme=tokyonight&token=M_Stats" alt="Backend Stats" />
 </p>
 
 ---
