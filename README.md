@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/-👋%20Hi,%20I'm%20Gift%20Mabokela-blue?style=for-the-badge&logo=github&logoColor=white&animation=blink" alt="Hi, I'm Gift Mabokela"/>
+</p>
+
 <div align="center">
-  <h1>👋 Hi, I'm Gift Mabokela</h1>
   <h3>🎓 Computer Engineering Student | 💡 Bridging Hardware & Software | 🌍 University of Pretoria</h3>
 </div>
 
